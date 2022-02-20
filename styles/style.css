@@ -25,6 +25,9 @@ h2{
 h5, p, .me-2{
     font-family: 'Avenir Light';
 }
+h5{
+    font-weight: bold;
+}
 
 
 a{
@@ -99,4 +102,7 @@ margin-top: .5em;
 .container-fluid{
     padding-right: 10%;
     padding-left: 10%;
+}
+.w-100{
+    max-width:900px;
 }
